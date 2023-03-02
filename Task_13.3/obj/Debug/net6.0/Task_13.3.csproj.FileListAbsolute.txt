@@ -1,0 +1,15 @@
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\Task_13.3.csproj.AssemblyReference.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\Task_13.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\Task_13.3.AssemblyInfoInputs.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\Task_13.3.AssemblyInfo.cs
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\Task_13.3.csproj.CoreCompileInputs.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\bin\Debug\net6.0\Task_13.3.exe
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\bin\Debug\net6.0\Task_13.3.deps.json
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\bin\Debug\net6.0\Task_13.3.runtimeconfig.json
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\bin\Debug\net6.0\Task_13.3.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\bin\Debug\net6.0\Task_13.3.pdb
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\Task_13.3.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\refint\Task_13.3.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\Task_13.3.pdb
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\Task_13.3.genruntimeconfig.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\DZ_Sem__C#\Task_13.3\obj\Debug\net6.0\ref\Task_13.3.dll
